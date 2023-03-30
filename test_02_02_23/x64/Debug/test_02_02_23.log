@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Visual studio\代码\test_02_02_23\test.c(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test_02_02_23.vcxproj -> D:\Visual studio\代码\test_02_02_23\x64\Debug\test_02_02_23.exe

@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Visual studio\代码\C语言\test_03_23_23\test.c(75,22): warning C4047: “return”:“int”与“char *”的间接级别不同
+D:\Visual studio\代码\C语言\test_03_23_23\test.c(70,6): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  test_03_23_23.vcxproj -> D:\Visual studio\代码\C语言\test_03_23_23\x64\Debug\test_03_23_23.exe
